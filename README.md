@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with React-Sentry App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project will monitor errors and performance of a simple button app that triggerse errors on click.
 
 ## Available Scripts
 
-In the project directory, you can run:
+To start, in the project directory, you can run:
 
 ### `npm start`
 
